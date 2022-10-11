@@ -1,5 +1,5 @@
 # Calcula a Média do Aluno
- Sistema escolar para coleta as nota dos alunos, e calculara média ao final da execução do programa, ele mostrara a média do Certo aluno
+ Sistema de coleta de nota dos alunos, e em seguida calcula a média do aluno e mostra se foi Aprovado ou reprovado.
 
 
 
