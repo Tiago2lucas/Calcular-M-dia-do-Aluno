@@ -1,3 +1,5 @@
+# Linguagem
+ * C++	
 # Calcula a Média do Aluno
  Sistema de coleta de nota dos alunos, e em seguida calcula a média do aluno e mostra se foi Aprovado ou reprovado.
 
